@@ -10,8 +10,8 @@ A porfolio showcasing some projects that are not subject to NDAs or confidential
 | [**MAPIE_SPC_OOD_Satellite_Experiment.ipynb**](MAPIE_SPC_OOD_Satellite_Experiment.ipynb) | Out-of-distribution detection with MAPIE | On-board satellite processing |
 | [**MAPIE_regressor_example.ipynb**](MAPIE_regressor_example.ipynb) | MAPIE for regression uncertainty | General ML applications |
 | [**Stochastic_Interest_Rate_Swap.ipynb**](Stochastic_Interest_Rate_Swap.ipynb) | Multivariate Monte Carlo simulations | Interest rate derivatives |
-| [**Stocks_news_project.ipynb**](Stocks_news_project.ipynb) | NLP sentiment analysis + price impact | Computational finance |
+| [**Stocks_news_project.ipynb**](Stocks_news_project.ipynb) | NLP sentiment analysis + price impact | Natural Language Processing for finance |
 | [**Testing_Data_Photonic_Chip.ipynb**](Testing_Data_Photonic_Chip.ipynb) | Quantum processor calibration | Quantum error correction |
-| [**Trained_ckpt_DiffModels_Split_CP_and_APS.ipynb**](Trained_ckpt_DiffModels_Split_CP_and_APS.ipynb) | Model comparison under conformal prediction | AI model evaluation |
+| [**Trained_ckpt_DiffModels_Split_CP_and_APS.ipynb**](Trained_ckpt_DiffModels_Split_CP_and_APS.ipynb) | Model comparison under conformal prediction | AI uncertainty evaluation |
 | [**UC_Merced_Land_Use_CP.ipynb**](UC_Merced_Land_Use_CP.ipynb) | ResNet50 + advanced conformal methods | Remote sensing |
-| [**hull_white_short_rate_model_simulations.ipynb**](hull_white_short_rate_model_simulations.ipynb) | Hull-White interest rate model | Fixed income modeling |
+| [**hull_white_short_rate_model_simulations.ipynb**](hull_white_short_rate_model_simulations.ipynb) | Hull-White interest rate model | Computational finance |
